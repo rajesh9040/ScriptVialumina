@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-31T15:34:38 IST" name="Default suite" finished-at="2023-07-31T15:36:31 IST" duration-ms="113238">
+    <groups>
+    </groups>
+    <test started-at="2023-07-31T15:34:38 IST" name="Default test" finished-at="2023-07-31T15:36:31 IST" duration-ms="113238">
+      <class name="TestScenarios.LoginTest">
+        <test-method is-config="true" signature="dbConnection()[pri:0, instance:TestScenarios.LoginTest@2cd76f31]" started-at="2023-07-31T15:34:38 IST" name="dbConnection" finished-at="2023-07-31T15:34:52 IST" duration-ms="14012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dbConnection -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestScenarios.LoginTest@2cd76f31]" started-at="2023-07-31T15:34:52 IST" name="setUp" finished-at="2023-07-31T15:36:21 IST" duration-ms="88682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:0, instance:TestScenarios.LoginTest@2cd76f31]" started-at="2023-07-31T15:36:21 IST" name="loginTest" finished-at="2023-07-31T15:36:21 IST" duration-ms="291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="Organization()[pri:0, instance:TestScenarios.LoginTest@2cd76f31]" started-at="2023-07-31T15:36:21 IST" name="Organization" finished-at="2023-07-31T15:36:29 IST" duration-ms="7498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Organization -->
+        <test-method is-config="true" signature="typesVehicle()[pri:0, instance:TestScenarios.LoginTest@2cd76f31]" started-at="2023-07-31T15:36:29 IST" name="typesVehicle" finished-at="2023-07-31T15:36:31 IST" duration-ms="2690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- typesVehicle -->
+      </class> <!-- TestScenarios.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
